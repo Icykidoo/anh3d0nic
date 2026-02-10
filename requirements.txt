@@ -1,0 +1,2 @@
+gpt4all>=2.0.0
+readline; sys_platform != 'win32'
