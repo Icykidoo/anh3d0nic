@@ -42,8 +42,7 @@ A fully-featured, completely free AI assistant that runs entirely on your local 
 #### Option 1: Automated Setup (Recommended)
 
 ```bash
-# Clone or download the files
-cd anh3d0nic/
+# Clone repository 
 
 # Run the setup script
 chmod +x setup.sh
